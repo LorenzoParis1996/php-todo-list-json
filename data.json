@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "task": "Work on project proposal",
+        "deadline": "2022-05-20",
+        "priority": "high"
+    },
+    {
+        "id": 2,
+        "task": "Schedule meeting with team",
+        "deadline": "2022-05-15",
+        "priority": "medium"
+    },
+    {
+        "id": 3,
+        "task": "Prepare presentation",
+        "deadline": "2022-05-25",
+        "priority": "high"
+    },
+    {
+        "id": 4,
+        "task": "Follow up with clients",
+        "deadline": "2022-06-03",
+        "priority": "medium"
+    },
+    {
+        "id": 5,
+        "task": "Review budget report",
+        "deadline": "2022-05-28",
+        "priority": "low"
+    },
+    {
+        "id": 6,
+        "task": "Attend training workshop",
+        "deadline": "2022-06-10",
+        "priority": "high"
+    },
+    {
+        "id": 7,
+        "task": "Update project status",
+        "deadline": "2022-06-05",
+        "priority": "medium"
+    },
+    {
+        "id": 8,
+        "task": "Create marketing campaign",
+        "deadline": "2022-06-15",
+        "priority": "high"
+    },
+    {
+        "id": 9,
+        "task": "Complete online course",
+        "deadline": "2022-06-20",
+        "priority": "low"
+    },
+    {
+        "id": 10,
+        "task": "Organize team building activity",
+        "deadline": "2022-06-25",
+        "priority": "medium"
+    }
+]
