@@ -8,6 +8,10 @@
 </head>
 <body>
     <div id="app">
+        <h3 v-for="task in tasks">{{ task.task }}
+            <p>{{ task.deadline }}</p>
+            <p>{{ task.priority }}</p>
+        </h3>
 
     </div>
     
@@ -16,5 +20,6 @@
 
 
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="./script.js"></script>
 </body>
 </html>
